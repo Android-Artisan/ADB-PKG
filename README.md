@@ -50,11 +50,11 @@ No need to:
 
 ## Available commands 
 
-adb
-fastboot
-sqlite3
-etc1tool
-hprof-conv
-make_f2fs
-make_f2fs_casefold
-mke2fs
+- adb
+- fastboot
+- sqlite3
+- etc1tool
+- hprof-conv
+- make_f2fs
+- make_f2fs_casefold
+- mke2fs
