@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# Open Thank You webpage in default browser
+open "https://android-artisan.github.io/ADB-PKG/postinstall.html"
+
+exit 0
