@@ -39,7 +39,7 @@ After installation, just open your terminal and use `adb` directly:
 
 ```bash
 adb devices
-adb install myapp.ap
+adb install myapp.apk
 adb logcat
 ```
 
