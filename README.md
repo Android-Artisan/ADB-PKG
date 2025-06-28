@@ -1,5 +1,5 @@
 # ADB-PKG
-ADB For Macintosh OS
+## ADB For Macintosh OS
 
 **ADB-PKG** is a lightweight, macOS-exclusive package curated by **Android Artisan** that makes installing and using Android Debug Bridge (**ADB**) as smooth as possible.
 
